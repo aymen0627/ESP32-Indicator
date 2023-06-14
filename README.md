@@ -2,7 +2,7 @@
 MAX7219 indicator "arrow" on the ESP32, development on the ESP-IDF
 
 
-# Using sources found at: https://github.com/UncleRus/esp-idf-lib/tree/master/components/max7219 and https://esp32tutorials.com/esp32-esp-idf-max7219-dot-matrix-display-module/
+# Using sources found at:   https://github.com/UncleRus/esp-idf-lib/tree/master/components/max7219 and https://esp32tutorials.com/esp32-esp-idf-max7219-dot-matrix-display-module/
 
 
 # Setup:  
